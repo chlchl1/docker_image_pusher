@@ -4,3 +4,14 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+gdy666/lucky:2.10.0-amd64
+gdy666/lucky:2.9.0-amd64
+whyour/qinglong:2.15.20
+whyour/qinglong:2.16.3
+whyour/qinglong:2.16.5
+whyour/qinglong:2.10.13
+whyour/qinglong:2.11.3
+mzzsfy/auto-proxy-pool:24-06-17_18-45
+pull yinxi0306/proxy:24-06-06
+pull ht944/rabbitpro:latest
+
