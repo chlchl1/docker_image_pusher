@@ -6,5 +6,6 @@ whyour/qinglong:2.16.5
 whyour/qinglong:2.10.13
 whyour/qinglong:2.11.3
 mzzsfy/auto-proxy-pool:24-06-17_18-45
-pull yinxi0306/proxy:24-06-06
-pull ht944/rabbitpro:latest
+mzzsfy/auto-proxy-pool:24-06-21_16-58
+yinxi0306/proxy:24-06-06
+ht944/rabbitpro
