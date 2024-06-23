@@ -8,3 +8,4 @@ whyour/qinglong:2.11.3
 mzzsfy/auto-proxy-pool:24-06-17_18-45
 mzzsfy/auto-proxy-pool:24-06-21_16-58
 ht944/rabbitpro
+yinxi0306/pro:2.7.8
