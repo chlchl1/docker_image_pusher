@@ -1,2 +1,5 @@
 #mzzsfy/auto-proxy-pool:24-07-10_20-09
 mzzsfy/auto-proxy-pool:24-08-18_13-23
+zhx47/jd_h5st_server:amd64
+zhx47/jd_h5st_server:arm64
+zhx47/jd_sign:latest
