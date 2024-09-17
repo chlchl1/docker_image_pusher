@@ -1,2 +1,2 @@
 #mzzsfy/auto-proxy-pool:24-07-10_20-09
-hdbjlizhe/autman:latest
+mlikiowa/napcat-docker:v1.8.4
