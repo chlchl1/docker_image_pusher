@@ -1,3 +1,4 @@
 #mzzsfy/auto-proxy-pool:24-07-10_20-09
 gdy666/lucky:2.10.9
 xzxxn777/ddddocr:latest
+docker pull mzzsfy/auto-proxy-pool:24-08-18_13-23
