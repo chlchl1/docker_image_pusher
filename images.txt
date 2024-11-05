@@ -1,5 +1,5 @@
 #mzzsfy/auto-proxy-pool:24-07-10_20-09
 #sy999/hui_h5:latest
 #whyour/qinglong:debian-python3.10
-#shufflewzc/jd_h5st_server
+shufflewzc/jd_h5st_server
 zhx47/jd_h5st_server:arm64
