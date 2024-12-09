@@ -4,4 +4,5 @@
 #shufflewzc/jd_h5st_server
 #zhx47/jd_h5st_server:arm64
 #redlou/autoupjdcookie:20241204-2249
-redlou/autoupjdcookie:20241205-0716
+#redlou/autoupjdcookie:20241205-0716
+docker pull linkease/ddnsto:3.0.0
