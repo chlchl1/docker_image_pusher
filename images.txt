@@ -6,3 +6,4 @@
 #redlou/autoupjdcookie:20241204-2249
 #redlou/autoupjdcookie:20241205-0716
 linkease/ddnsto:3.0.0
+linkease/ddnsto:latest
