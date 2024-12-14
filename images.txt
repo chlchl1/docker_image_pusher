@@ -5,5 +5,6 @@
 #zhx47/jd_h5st_server:arm64
 #redlou/autoupjdcookie:20241204-2249
 #redlou/autoupjdcookie:20241205-0716
-linkease/ddnsto:3.0.0
-linkease/ddnsto:latest
+#linkease/ddnsto:3.0.0
+#linkease/ddnsto:latest
+yuanter/jd_cookie:16.4
