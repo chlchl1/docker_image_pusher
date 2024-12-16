@@ -7,4 +7,5 @@
 #redlou/autoupjdcookie:20241205-0716
 #linkease/ddnsto:3.0.0
 #linkease/ddnsto:latest
-yuanter/jd_cookie:16.4
+#yuanter/jd_cookie:16.4
+neuynp8oido4ejj/jd-login:2024111301
