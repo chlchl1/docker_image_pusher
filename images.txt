@@ -10,7 +10,7 @@
 #yuanter/jd_cookie:16.4
 #neuynp8oido4ejj/jd-login:2024111301
 #ht944/rabbitpro:12-17_16-18-04
-#nolanhzy/pro:08-15_04-17-06 ok
+#nolanhzy/pro:08-15_04-17-06
 #nolanhzy/pro:04-19_15-46-03
 nolanhzy/aotpro:3.0.7-base
 nolanhzy/aotpro:3.0.6-dev
