@@ -15,7 +15,7 @@
 #nolanhzy/aotpro:3.0.6-dev
 #nolanhzy/aotpro:3.0.7-base
 #nolanhzy/aotpro:3.08-dev
-nolanhzy/aotpro:3.0.9
-nolanhzy/aotpro:3.1.0
-nolanhzy/pro:3.1.1
-nolanhzy/pro:3.1.2
+#nolanhzy/aotpro:3.0.9
+#nolanhzy/aotpro:3.1.0
+#nolanhzy/pro:3.1.1
+#nolanhzy/pro:3.1.2
