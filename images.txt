@@ -19,3 +19,4 @@
 #nolanhzy/aotpro:3.1.0
 #nolanhzy/pro:3.1.1
 #nolanhzy/pro:3.1.2
+qninq/signapi:latest
