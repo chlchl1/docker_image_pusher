@@ -22,6 +22,8 @@
 #nolanhzy/pro:3.1.3
 #nolanhzy/pro:3.1.4
 #nolanhzy/pro:3.1.5
+nolanhzy/pro:3.1.6
 #qninq/signapi:latest
 icepage/aujc:20250408v1
 icepage/aujc:20250411v1
+zhx47/jd_sign:latest
