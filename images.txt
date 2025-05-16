@@ -27,4 +27,5 @@
 #icepage/aujc:20250408v1
 #icepage/aujc:20250411v1
 #zhx47/jd_sign:latest
-xmoxmo/xybotv2:latest
+#xmoxmo/xybotv2:latest
+luomubiji/ntqq:1.9
