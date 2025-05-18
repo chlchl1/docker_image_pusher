@@ -29,4 +29,6 @@
 #zhx47/jd_sign:latest
 #xmoxmo/xybotv2:latest
 #luomubiji/ntqq:1.9
-redlou/jd_h5st_server:latest
+#redlou/jd_h5st_server:latest
+hdbjlizhe/autman:3.2.5
+hdbjlizhe/autman:3.6.1
