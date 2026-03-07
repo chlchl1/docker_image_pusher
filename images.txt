@@ -34,5 +34,6 @@
 #hdbjlizhe/autman:3.6.1
 #whyour/qinglong:2.17.9
 #fenglongchang/liantong-unicom-sms:latest
-nolanhzy/pro:3.2.1-arm64
-nolanhzy/pro:3.2.1-amd64
+#nolanhzy/pro:3.2.1-arm64
+#nolanhzy/pro:3.2.1-amd64
+grbhq/jdx:0.2.4
