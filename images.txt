@@ -38,4 +38,4 @@
 #nolanhzy/pro:3.2.1-amd64
 #grbhq/jdx:0.2.4
 #dsmggm/autojdck:20260331
-zinglix/immich-geodata-cn:latest
+redis:7-alpine
